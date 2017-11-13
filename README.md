@@ -1,1 +1,1 @@
-# JoshuaBurrows-Jquery-CrystalCollector
+# JoshuaBurrows-jquery-CrystalsCollector
